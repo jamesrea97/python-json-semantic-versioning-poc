@@ -1,0 +1,6 @@
+{
+    "__type__": "ParentModel",
+    "__version__": "2.0",
+    "renamed_name_parent": "str",
+    "children": ["ChildrenModel"]
+}
